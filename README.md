@@ -45,6 +45,12 @@ Run the following command in order to start the application in a development env
 
 _yarn dev_
 
+## ![ask and answer](https://img.icons8.com/nolan/30/faq.png) FAQ
+
+**Question**: What are the tecnologies used in this project?
+
+**Answer**: NextJS; Tailwind (CSS); Next Authentication; Firebase; Emojis;
+
 ## ![ask and answer](https://img.icons8.com/nolan/30git@github.com:Shyroe/twitter-clone.git8.com/color/30/000000/mental-state.png) Issues
 
 Feel free to file a new issue with a respective title and description on the the Amazon Next repository. If you already found a solution to your problem, i would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
